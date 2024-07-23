@@ -4,7 +4,6 @@ class Yogev < Formula
   url "https://github.com/roycald245/homebrew-yogev/releases/download/v0.0.1.1/yogev-0.0.1.1.tar.gz"
   sha256 "5524557eda7a8826b99d1ecfdaa9babbd9b2f9b0d35dbddda8b6c04d42cc4faa"
   license "Apache-2.0"
-  version "0.0.1.1"
 
   depends_on "go" => :build
 
