@@ -8,7 +8,7 @@ class Yogev < Formula
   depends_on "go" => :build
 
   def install
-    system "go", "build", *std_go_args(ldflags: "-s -w")
+    bin.install "yogev"
   end
   
   test do
