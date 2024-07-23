@@ -1,8 +1,8 @@
 class Yogev < Formula
   desc "CLI bot that will provide you with statistical facts and other interesting and weird features"
   homepage "https://github.com/roycald245/homebrew-yogev"
-  url "https://github.com/roycald245/homebrew-yogev/releases/download/0.0.1.1/yogev-0.0.1.1.tar.gz"
-  sha256 "5524557eda7a8826b99d1ecfdaa9babbd9b2f9b0d35dbddda8b6c04d42cc4faa"
+  url "https://github.com/roycald245/homebrew-yogev/releases/download/0.0.1.2/yogev-0.0.1.2.tar.gz"
+  sha256 "573cea09cee761e04ccd73a3f757b5d37af8353065c26a36bb0db1662ecea699"
   license "Apache-2.0"
 
   depends_on "go" => :build
